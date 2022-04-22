@@ -1,0 +1,43 @@
+.main {
+  height: 250px;
+  width: 200px;
+  background-color: #dbf0fe;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.message {
+  width: 100%;
+}
+
+.message p {
+  background-color: #ffc8c9;
+  margin-top: 1em;
+  text-align: center;
+}
+
+.datetime {
+  font-size: 0.8rem;
+  margin-top: 0.3em;
+}
+
+.img img {
+  width: 100px;
+}
+
+.temp {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.desc {
+  margin-top: 0.3em;
+}
+
+.location {
+  margin-top: 0.3em;
+  font-weight: bold;
+}
