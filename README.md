@@ -1,6 +1,6 @@
-# Weather_ext
+# Weather
 
-Weather_ext is a simple browser extension that shows the current weather condition based on the user's location.
+Weather is a simple browser extension that shows the current weather condition based on the user's location.
 
 ## Features
 
