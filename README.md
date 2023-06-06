@@ -1,6 +1,6 @@
 # Weather
 
-Weather is a simple browser extension that shows the current weather condition based on the user's location.
+Weather is a browser extension that shows the current weather condition based on the user's location.
 
 ## Features
 
